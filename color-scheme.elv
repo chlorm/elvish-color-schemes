@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-use github.com/chlrom/elvish-term-color/term-color
+use github.com/chlorm/elvish-term-color/term-color
 
 # https://github.com/JesseLeite/an-old-hope-syntax-atom
 fn an-old-hope {
