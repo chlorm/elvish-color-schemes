@@ -7,7 +7,7 @@ Elvish Color Schemes
 epm:install github.com/chlorm/elvish-color-schemes
 epm:install github.com/chlorm/elvish-term-color
 use github.com/chlorm/elvish-color-schemes/color-scheme
-usr github.com/chlorm/elvish-term-color/term-color
+use github.com/chlorm/elvish-term-color/term-color
 
 term-color:set (color-scheme:monokai)
 ```
