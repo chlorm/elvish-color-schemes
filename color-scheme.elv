@@ -33,6 +33,8 @@ fn an-old-hope {
     &13=5
     &14=6
     &15=(term-color:hex-to-rgb '#cbcdd2')
+    &bg=0
+    &fg=15
   ]
 }
 
@@ -55,6 +57,8 @@ fn gruvbox {
     &13=(term-color:hex-to-rgb '#d3869b')
     &14=(term-color:hex-to-rgb '#8ec07c')
     &15=(term-color:hex-to-rgb '#ebdbb2')
+    &bg=0
+    &fg=15
   ]
 }
 
@@ -77,5 +81,7 @@ fn monokai {
     &13=5
     &14=6
     &15=(term-color:hex-to-rgb '#f8f8f0')
+    &bg=(term-color:hex-to-rgb '#282828')
+    &fg=(term-color:hex-to-rgb '#f8f8f2')
   ]
 }
